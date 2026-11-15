@@ -1,0 +1,21 @@
+{
+  "kind": "survey-weighting-lab",
+  "notice": "仅含合成记录，不代表真实业务结论",
+  "rows": [
+    {
+      "period": "2026-01",
+      "group": "north",
+      "value": 12
+    },
+    {
+      "period": "2026-02",
+      "group": "north",
+      "value": 15
+    },
+    {
+      "period": "2026-02",
+      "group": "south",
+      "value": 9
+    }
+  ]
+}

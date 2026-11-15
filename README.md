@@ -1,0 +1,14 @@
+# 问卷无应答变化后的总体趋势可比性
+
+这是用于本地分析与报表工作的 Python 项目，代码以标准库为基础。
+
+## 目录
+
+- `analysis/`、`metrics/`、`evaluation/`：分析口径与统计处理。
+- `delivery/`、`reports/`、`planning/`：面向业务使用方的结果组织。
+- `data/`：仅用于演练的合成小样本。
+- `tests/`：项目契约的自动化检查。
+
+## 本地检查
+
+使用 Python 3.11 或更高版本运行 `python -m unittest discover -s tests -v`。
